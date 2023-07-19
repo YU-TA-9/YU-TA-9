@@ -19,7 +19,7 @@
 
 ### Component Catalog
 
-- https://yuta9-storybook.vercel.app/
+- https://storybook.yu-ta-9.com/
 
 ## Love
 
