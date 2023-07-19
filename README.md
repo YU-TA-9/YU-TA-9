@@ -15,7 +15,7 @@
 
 ### My Page
 
-- https://yuta9-page.vercel.app/
+- https://www.yu-ta-9.com/
 
 ### Component Catalog
 
