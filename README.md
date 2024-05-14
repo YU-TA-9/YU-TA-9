@@ -29,7 +29,7 @@
 
 - [Mr.Pricer](https://twitter.com/mrpricer_app)
   - https://www.mr-pricer.com/signIn
-- [本棚SVG生成アプリ]（https://github.com/yu-ta-9/bookshelf-generator）
+- [本棚SVG生成アプリ](https://github.com/yu-ta-9/bookshelf-generator)
   - ※使用は自由とさせていただいてますが、試作段階なため突然の変更があることをご了承ください。
 
 ## Love
