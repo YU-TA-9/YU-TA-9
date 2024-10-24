@@ -27,10 +27,12 @@
 
 ### Runnning web services
 
-- [Mr.Pricer](https://twitter.com/mrpricer_app)
-  - https://www.mr-pricer.com/signIn
+- [生活の知恵を学べるサイト - チエっと！](https://chietto.yu-ta-9.com/)
 - [本棚SVG生成アプリ](https://github.com/yu-ta-9/bookshelf-generator)
   - Use for free.
+- [Mr.Pricer（休止中）](https://twitter.com/mrpricer_app)
+  - https://www.mr-pricer.com/signIn
+
 
 ## Love
 
