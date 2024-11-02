@@ -31,8 +31,6 @@
 - [本棚SVG生成アプリ](https://github.com/yu-ta-9/bookshelf-generator)
   - Use for free.
 - [Mr.Pricer（休止中）](https://twitter.com/mrpricer_app)
-  - https://www.mr-pricer.com/signIn
-
 
 ## Love
 
