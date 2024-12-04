@@ -13,7 +13,7 @@
 
 ## Now reading
 
-![My bookshelf](https://bookshelf.yu-ta-9.com/?isbns[]=9784798184777&isbns[]=9784297142490&isbns[]=9784297125219&isbns[]=9784873115894&isbns[]=9784297133665&)
+![My bookshelf](https://bookshelf.yu-ta-9.com/?isbns[]=9784798184777&isbns[]=9784873115894)
 
 ## Portfolio
 
